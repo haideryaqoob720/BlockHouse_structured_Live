@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/%20BlockHouse_structured_Live/static/css/main.c0b676a3.css",
+    "main.js": "/%20BlockHouse_structured_Live/static/js/main.62e7ae17.js",
+    "static/js/787.3a39cd02.chunk.js": "/%20BlockHouse_structured_Live/static/js/787.3a39cd02.chunk.js",
+    "static/media/aboutAssetsBackground.png": "/%20BlockHouse_structured_Live/static/media/aboutAssetsBackground.e6309429a438d246d495.png",
+    "static/media/3rdSectionBackground.png": "/%20BlockHouse_structured_Live/static/media/3rdSectionBackground.baa4b36eedc0ed19ce6e.png",
+    "static/media/landingPageBackground.png": "/%20BlockHouse_structured_Live/static/media/landingPageBackground.97d40ed1f48e70470bbf.png",
+    "static/media/fifthSecBackground.png": "/%20BlockHouse_structured_Live/static/media/fifthSecBackground.bf46e3e9ddf3afe7c87f.png",
+    "static/media/blockHouseBackground.png": "/%20BlockHouse_structured_Live/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
+    "static/media/liquidityBackground.png": "/%20BlockHouse_structured_Live/static/media/liquidityBackground.0f984e718f4cbd8db79b.png",
+    "static/media/assetImg.png": "/%20BlockHouse_structured_Live/static/media/assetImg.fd5d07b59055d9edbc74.png",
+    "static/media/fourthSec1stImg.png": "/%20BlockHouse_structured_Live/static/media/fourthSec1stImg.3247e1d061b063f6395f.png",
+    "static/media/fourthSecSecImg.png": "/%20BlockHouse_structured_Live/static/media/fourthSecSecImg.e3aa93b84ea255c2cfb2.png",
+    "static/media/fourthSec3rdImg.png": "/%20BlockHouse_structured_Live/static/media/fourthSec3rdImg.9149ed3edecb3152093e.png",
+    "static/media/thirdSecFthTileImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecFthTileImg.9cb99534f2a7cf01fd68.png",
+    "static/media/thirdSecSecTileImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecSecTileImg.fa35dce2585d6dd55d8a.png",
+    "static/media/thirdSecTrdTileImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecTrdTileImg.44f2005bd1f657ee804d.png",
+    "static/media/thirdSecFirstRowTileIstImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecFirstRowTileIstImg.d0f9218c5deb2a49bee8.png",
+    "static/media/thirdSecFrtTileImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecFrtTileImg.d88762998c0bbd49ef80.png",
+    "static/media/thirdSecIstTileImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecIstTileImg.9443f12a9103de3c246a.png",
+    "static/media/thirdSecFirstRowTileSecImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecFirstRowTileSecImg.a96044d914456f84340c.png",
+    "static/media/thirdSecSxtTileImg.png": "/%20BlockHouse_structured_Live/static/media/thirdSecSxtTileImg.828f13c01cdadc5b0272.png",
+    "index.html": "/%20BlockHouse_structured_Live/index.html",
+    "main.c0b676a3.css.map": "/%20BlockHouse_structured_Live/static/css/main.c0b676a3.css.map",
+    "main.62e7ae17.js.map": "/%20BlockHouse_structured_Live/static/js/main.62e7ae17.js.map",
+    "787.3a39cd02.chunk.js.map": "/%20BlockHouse_structured_Live/static/js/787.3a39cd02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b676a3.css",
+    "static/js/main.62e7ae17.js"
+  ]
+}
